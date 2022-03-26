@@ -2,6 +2,6 @@
   "name": "test",
   "dependencies": {
     "ethers": "^4.0.44",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.6"
   }
 }
